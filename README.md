@@ -17,3 +17,5 @@ Processed dataset
 # Final_code.ipynb
 Final model after implementation
 
+# Slide
+Slide show for presentation
